@@ -23,4 +23,6 @@ You don't need to log in to use it, except for the Buitenzorg ChatGPT applicatio
 
 **NOTE :** Anyone who copies our equipment, please let us know thank you.
 
-**Thanks To Make My Tools, And Thanks My Friend's Buitenzorg Syndicate.io And MrTamfanX Cyber Team**
+**Thank you for using our tools properly, I hope you are comfortable and happy.**
+
+**Powered by Buitenzorg Syndicate & MrTamfanX Cyber Team**

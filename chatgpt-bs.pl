@@ -2,7 +2,7 @@
 #ChatGPT4 for CLI by Buitenzorg Syndicate
 
 use LWP::UserAgent; 
-use Term::ANSIColor; 
+use Term::ANSIColor;
 use OpenAIGPT4;
 use if $^O eq "MSWin32", Win32::Console::ANSI;
 

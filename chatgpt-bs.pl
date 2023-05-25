@@ -10,9 +10,9 @@ if ($^O =~ /MSWin32/) {system("mode con: cols=100 lines=29");system("cls"); }els
 
 my $gpt4_api = OpenAIGPT4->new('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');
 
-print color('bold green'),"------------------------------";
-print color('bold green'), "Buitenzorg Syndicate ChatGPT4";
-print color('bold green'),"------------------------------";
+print color('bold green'),"-------------------------------";
+print color('bold green')," Buitenzorg Syndicate ChatGPT4";
+print color('bold green'),"-------------------------------";
 
 while (1) {
     print color('bold green'),"[ User ] Type your prompt: ";

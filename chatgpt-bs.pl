@@ -8,7 +8,7 @@ use if $^O eq "MSWin32", Win32::Console::ANSI;
 
 if ($^O =~ /MSWin32/) {system("mode con: cols=100 lines=29");system("cls"); }else { system("resize -s 28 87");system("clear"); }
 
-my $gpt4_api = OpenAIGPT4->new('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');
+my $gpt4_api = OpenAIGPT4->new('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');
 
 print color('bold green'),"-------------------------------";
 print color('bold green')," Buitenzorg Syndicate ChatGPT4";
